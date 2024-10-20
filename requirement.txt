@@ -1,0 +1,5 @@
+requests
+numpy
+tls_client
+markdownify
+typing_extensions
